@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|c:\\users\\yo-re\\source\\repos\\garageapp\\garagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|solutionrelative:garagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|c:\\users\\yo-re\\source\\repos\\garageapp\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|solutionrelative:ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|c:\\users\\yo-re\\source\\repos\\garageapp\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|solutionrelative:garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|c:\\users\\yo-re\\source\\repos\\garageapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|c:\\users\\yo-re\\source\\repos\\garageapp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|c:\\users\\yo-re\\source\\repos\\garageapp\\iui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC0DC97-F573-4850-BDA7-A8940574F66C}|GarageApp.csproj|solutionrelative:iui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:26:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:26:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\Garage.cs",
+              "RelativeDocumentMoniker": "Garage.cs",
+              "ToolTip": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\Garage.cs",
+              "RelativeToolTip": "Garage.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:56:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\IHandler.cs",
+              "RelativeDocumentMoniker": "IHandler.cs",
+              "ToolTip": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\IHandler.cs",
+              "RelativeToolTip": "IHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:52:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GarageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\GarageHandler.cs",
+              "RelativeDocumentMoniker": "GarageHandler.cs",
+              "ToolTip": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\GarageHandler.cs",
+              "RelativeToolTip": "GarageHandler.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAIwHYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:50:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUI.cs",
+              "DocumentMoniker": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\IUI.cs",
+              "RelativeDocumentMoniker": "IUI.cs",
+              "ToolTip": "C:\\Users\\yo-re\\source\\repos\\GarageApp\\IUI.cs",
+              "RelativeToolTip": "IUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:43:54.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
