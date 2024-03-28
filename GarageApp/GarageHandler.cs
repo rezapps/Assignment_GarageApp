@@ -136,28 +136,36 @@ namespace GarageApp
             
         }
 
-        public Vehicle FindByRegistration()
+        public Vehicle? FindByRegistration()
         {
             string userInput;
             const string pattern = @"^[A-Z]{3}[0-9]{3}$";
+            Console.WriteLine("Enter registration number: ");
+            userInput = Console.ReadLine() ?? "";
+            string registration = userInput.ToUpper();
 
             do
             {
-                Console.WriteLine("Enter registration number: ");
-                userInput = Console.ReadLine() ?? "";
 
-                if (!System.Text.RegularExpressions.Regex.IsMatch(userInput, pattern))
+                if (!System.Text.RegularExpressions.Regex.IsMatch(registration, pattern))
                 {
                     Console.WriteLine("Registration number must be in format: ABC123");
                 }
-            } while (!System.Text.RegularExpressions.Regex.IsMatch(userInput, pattern));
+            } while (!System.Text.RegularExpressions.Regex.IsMatch(registration, pattern));
 
             // Search the garage after validation
-            string registration = userInput.ToUpper(); // Convert to uppercase for case-insensitive search
-            return _garage.FirstOrDefault(vehicle1 => vehicle1.Registration.Equals(registration, StringComparison.OrdinalIgnoreCase));
 
+            // Check if a vehicle is found before returning
+            Vehicle foundVehicle = _garage.FirstOrDefault(vehicle => vehicle.Registration.Equals(registration, StringComparison.OrdinalIgnoreCase));
+            if (foundVehicle == null)
+            {
+                Console.WriteLine("No vehicle found with registration number: {0}", registration);
+                return null; // Return null or another appropriate value if not found
+            }
 
+            return foundVehicle;
         }
+
 
 
         public void CountEachTypes()

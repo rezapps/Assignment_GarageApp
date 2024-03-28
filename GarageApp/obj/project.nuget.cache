@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "orCH5S3xi5/JvDzj3RaGf/qc4imb3CTU0IEeIN8BdSa2Y8uHRj3x6TUFtVQvNw8RUmQfi3MogtqvNwsnChp1jA==",
+  "dgSpecHash": "m0yXDchj9CXKiD+ITTaAM5jOzp0o4EQ+aSOXwDtMDp8AZzPxAUi0dfJe8lpJs5QpyAF1vXP2EvJT8YVymP7sUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yo-re\\source\\repos\\Assignment-5\\GarageApp\\GarageApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\yo-re\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\yo-re\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\yo-re\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\yo-re\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/rj/proj/cs/Assignment_GarageApp/GarageApp/GarageApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
